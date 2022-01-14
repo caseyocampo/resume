@@ -1,3 +1,3 @@
 # Welcome to my GitHub profile!
 
-Visit my [developer profile](https://caseyocampo.com).
+Visit my [developer projects page](https://caseyocampo.com/projects).
