@@ -10,4 +10,4 @@ You can read more about me on [my website's about page](https://www.caseyocampo.
 
 ## Projects
 
-I've pinned my favorite projects below. If you prefer to view these project outside of GitHub, visit my [developer projects page](https://caseyocampo.com/projects).
+I've pinned my favorite projects below. If you prefer to view these projects outside of GitHub, visit my [developer projects page](https://caseyocampo.com/projects).
