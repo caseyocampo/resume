@@ -6,7 +6,7 @@ What makes me passionate about programming is that anyone can learn and create s
 
 ## A little more about me
 
-You can read more about me on [my website's about page](https://www.caseyocampo.com/about/)
+You can read more about me on [my website's about page](https://www.caseyocampo.com/about/).
 
 ## Projects
 
