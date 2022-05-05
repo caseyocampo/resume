@@ -1,8 +1,8 @@
 # Welcome to my GitHub profile!
 
-Hi, I'm Casey. I'm a Front End Developer who cares about code and is always striving to be a better developer. I do this by reading books, taking courses, and writing about things I've learned about. I even started a [YouTube channel](https://www.youtube.com/channel/UCLy7uZaVQ7nl5kBpixhH5wA) where I'm beginning to catalog things I've learned.
+Hi, I'm Casey. I'm a Front End Developer who cares about code and is always striving to be a better developer. I do this by reading books, taking courses, building projects, and writing about things I've learned about. I even started a [YouTube channel](https://www.youtube.com/channel/UCLy7uZaVQ7nl5kBpixhH5wA) where I'm beginning to catalog things I've learned.
 
-What makes me passionate about programming is that anyone can learn and create something meaningful. By learning how to code, you have the opportunity to create a positive change in the world.
+What makes me passionate about coding is that anyone can do it, as long as they put in consistent time and focus to learn. 
 
 ## A little more about me
 
