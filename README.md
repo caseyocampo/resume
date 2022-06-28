@@ -1,4 +1,4 @@
-# Welcome to my GitHub profile!
+# Welcome!
 
 Hi, I'm Casey.
 
