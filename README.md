@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile!
 
-Hi, I'm Casey.
+Hi, I'm Casey 👋.
 
 I'm an Accessibility Enginneer who enjoys learning more about web accessibility, web development best practices, and how to become a better, more efficient human overall. I do this by reading books, taking courses, building projects, and posting about things I learn. I even started a [YouTube channel](https://www.youtube.com/channel/UCLy7uZaVQ7nl5kBpixhH5wA) where I'm beginning to catalog things I've learned.
 
