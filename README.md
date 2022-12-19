@@ -10,7 +10,7 @@ What makes me passionate about the technology industry is that there is a place 
 
 You can read more about me on [my website's about page](https://www.caseyocampo.com/about/).
 
-Follow me on <a rel="me" href="https://mastodon.social/@caseyocampo">Mastodon</a>
+Follow me on <a rel="me" href="https://mastodon.social/@caseyocampo">Mastodon</a>.
 
 ## Projects
 
