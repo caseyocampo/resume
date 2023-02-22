@@ -2,7 +2,7 @@
 
 Hi, I'm Casey 👋.
 
-I'm an Accessibility Enginneer who enjoys learning more about web accessibility, web development best practices, and how to become a better, more efficient human overall. I do this by reading books, taking courses, building projects, and posting about things I learn.
+I'm an Accessibility Enginneer who enjoys learning more about web accessibility and web development best practices. I do this by reading books, taking courses, building projects, and posting about things I learn.
 
 What keeps me interested in the technology industry is that I get to learn something new just about every day.
 
