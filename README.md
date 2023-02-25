@@ -10,7 +10,7 @@ What keeps me interested in the technology industry is that I get to learn somet
 
 You can read more about me on [my website's about page](https://www.caseyocampo.com/about/).
 
-Follow me on <a rel="me" href="https://mastodon.social/@caseyocampo">Mastodon</a>.
+Feel free to follow me on <a rel="me" href="https://mastodon.social/@caseyocampo">Mastodon</a> as well!
 
 ## Projects
 
