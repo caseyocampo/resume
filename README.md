@@ -14,4 +14,6 @@ Feel free to follow me on <a rel="me" href="https://mastodon.social/@caseyocampo
 
 ## Projects
 
-I've pinned my favorite projects below. If you prefer to view these projects outside of GitHub, visit my [developer projects page](https://www.caseyocampo.com/projects).
+I've pinned my favorite projects below.
+
+If you prefer to view these projects outside of GitHub, visit the [projects page on my website](https://www.caseyocampo.com/projects).
