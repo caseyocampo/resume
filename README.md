@@ -6,8 +6,6 @@ I'm an Accessibility Enginneer who enjoys learning more about web accessibility,
 
 What keeps me interested in the technology industry is that I get to learn something new just about every day.
 
-## A little more about me
-
 You can read more about me on [my website's about page](https://www.caseyocampo.com/about/).
 
 ## Projects
