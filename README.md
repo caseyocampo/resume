@@ -10,4 +10,4 @@ You can read more about me on [my website's about page](https://www.caseyocampo.
 
 ## Projects
 
-If you prefer to view these projects outside of GitHub, visit the [projects page on my website](https://www.caseyocampo.com/projects). 
+If you prefer to view my projects outside of GitHub, visit the [projects page on my website](https://www.caseyocampo.com/projects). 
