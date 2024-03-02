@@ -1,8 +1,8 @@
 # Accessibility Engineer
 
-Technical skills: HTML, CSS, Tailwind, JavaScript, React
+**Technical skills**: HTML, CSS, Tailwind, JavaScript, React
 
-Accessibility knowledge: WCAG 2.1, ARIA, screen reader testing with VoiceOver and NVDA, auditing web pages and designs.
+**Accessibility knowledge**: WCAG 2.1, ARIA, screen reader testing with VoiceOver and NVDA, auditing web pages and designs.
 
 ## Work Experience
 
@@ -20,10 +20,9 @@ Full-time/In-office · January 2019 - May 2019
 
 ## Projects
 
-If you prefer to view my projects outside of GitHub, visit the [projects page on my website](https://www.caseyocampo.com/projects). 
+If you prefer to view my projects outside of GitHub, visit the <u>[projects page on my website](https://www.caseyocampo.com/projects)</u>. 
 
 ## Publications
 
-[Your First Year in Code book](https://leanpub.com/firstyearincode)
-
-[Tech and hobby blog](https://www.caseyocampo.com/)
+<u>[Your First Year in Code book](https://leanpub.com/firstyearincode)</u><br/>
+<u>[Tech and hobby blog](https://www.caseyocampo.com/)</u>
