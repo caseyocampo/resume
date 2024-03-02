@@ -2,7 +2,7 @@
 
 **Technical skills**: HTML, CSS, Tailwind, JavaScript, React
 
-**Accessibility knowledge**: WCAG 2.1, ARIA, screen reader testing with VoiceOver and NVDA, auditing web pages and designs.
+**Accessibility knowledge**: WCAG 2.1, ARIA, screen reader testing with VoiceOver and NVDA, auditing web pages and designs
 
 ## Work Experience
 
@@ -20,9 +20,9 @@ Full-time/In-office · January 2019 - May 2019
 
 ## Projects
 
-If you prefer to view my projects outside of GitHub, visit the <u>[projects page on my website](https://www.caseyocampo.com/projects)</u>. 
+If you prefer to view my projects outside of GitHub, visit the <span style="text-decoration: underline">[projects page on my website](https://www.caseyocampo.com/projects)</span>. 
 
 ## Publications
 
-<u>[Your First Year in Code book](https://leanpub.com/firstyearincode)</u><br/>
-<u>[Tech and hobby blog](https://www.caseyocampo.com/)</u>
+<span style="text-decoration: underline">[Your First Year in Code book](https://leanpub.com/firstyearincode)</span><br/>
+<span style="text-decoration: underline">[Tech and hobby blog](https://www.caseyocampo.com/)</span>
