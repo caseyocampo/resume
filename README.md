@@ -4,12 +4,21 @@ Technical skills: HTML, CSS, JavaScript, React
 
 ## Work Experience
 
-**Accessibility Engineer**
-
-WebstaurantStore · Full-time
-
+**Accessibility Engineer**<br/>
+WebstaurantStore (Full-time)<br/>
 September 2022 - present
 
+**Front End Developer**<br/>
+Weiss Ratings (Full-time)<br/>
+March 2021 - September 2022
+
+**Front End Developer**<br/>
+Envy Labs (Full-time)<br/>
+January 2019 - May 2019
+
+**Email Developer/SEO Manager**<br/>
+Banyan Hill Publishing (Full-time)<br/>
+January 2019 - May 2019
 
 ## Projects
 
