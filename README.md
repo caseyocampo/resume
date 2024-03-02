@@ -5,7 +5,9 @@ Technical skills: HTML, CSS, JavaScript, React
 ## Work Experience
 
 **Accessibility Engineer**
+
 WebstaurantStore · Full-time
+
 September 2022 - present
 
 
