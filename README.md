@@ -1,8 +1,12 @@
 # Accessibility Engineer
 
-**Technical skills**: HTML, CSS, Tailwind, JavaScript, React
+Results-driven Accessibility Engineer with a strong skillset in front-end engineering. Proficient at integrating accessibility solutions into web applications while balancing customer needs and company budgets. Committed to ensuring digital products are inclusive and user-friendly for all.
 
-**Accessibility knowledge**: WCAG 2.1, ARIA, screen reader testing with VoiceOver and NVDA, auditing web pages and designs
+**Development skills**: Semantic HTML, CSS, Tailwind, JavaScript, React
+
+**Accessibility skills**: WCAG 2.1, ARIA, screen reader testing with VoiceOver and NVDA, auditing web pages and designs
+
+**Fun fact**: I am [Time Magazine’s 2006 Person of the Year](https://en.wikipedia.org/wiki/You_%28Time_Person_of_the_Year%29).
 
 ## Work Experience
 
@@ -20,7 +24,7 @@ Full-time/In-office · January 2019 - May 2019
 
 ## Projects
 
-If you prefer to view my projects outside of GitHub, visit the <span style="text-decoration: underline">[projects page on my website](https://www.caseyocampo.com/projects)</span>. 
+Checkout my [GitHub profile](https://github.com/caseyocampo) to view my public repos.
 
 ## Publications
 
