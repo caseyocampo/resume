@@ -1,3 +1,5 @@
+<link href="./assets/style.css" rel="stylesheet"></link> 
+
 # Accessibility Engineer
 
 Results-driven Accessibility Engineer with a strong skillset in front-end engineering. Proficient at integrating accessibility solutions into web applications while balancing customer needs and company budgets.
@@ -24,9 +26,14 @@ Full-time/In-office · January 2019 - May 2019
 
 ## Projects
 
-Checkout my [GitHub profile](https://github.com/caseyocampo) to view my public repos.
+Check out my [GitHub profile](https://github.com/caseyocampo) to view my public repos.
 
 ## Publications
 
-<span style="text-decoration: underline">[Your First Year in Code book](https://leanpub.com/firstyearincode)</span><br/>
-<span style="text-decoration: underline">[Tech and hobby blog](https://www.caseyocampo.com/)</span>
+[Your First Year in Code book](https://leanpub.com/firstyearincode)<br/>
+[Tech and hobby blog](https://www.caseyocampo.com/)
+
+## Contact Me
+
+Email me at caseysoflo @ gmail . com
+
