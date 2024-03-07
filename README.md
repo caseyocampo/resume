@@ -1,4 +1,4 @@
-<link href="./assets/style.css" rel="stylesheet"></link> 
+<link href="./assets/style.css" rel="stylesheet" />
 
 # Accessibility Engineer
 
