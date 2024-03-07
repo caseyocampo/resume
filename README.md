@@ -1,6 +1,6 @@
 # Accessibility Engineer
 
-Results-driven Accessibility Engineer with a strong skillset in front-end engineering. Proficient at integrating accessibility solutions into web applications while balancing customer needs and company budgets. Committed to ensuring digital products are inclusive and user-friendly for all.
+Results-driven Accessibility Engineer with a strong skillset in front-end engineering. Proficient at integrating accessibility solutions into web applications while balancing customer needs and company budgets.
 
 **Development skills**: Semantic HTML, CSS, Tailwind, JavaScript, React
 
